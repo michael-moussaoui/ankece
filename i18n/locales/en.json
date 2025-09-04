@@ -1,0 +1,29 @@
+{
+    "common": {
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "save": "Save",
+        "delete": "Delete",
+        "edit": "Edit",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "search": "Search",
+        "filter": "Filter",
+        "clear": "Clear",
+        "submit": "Submit",
+        "close": "Close",
+        "info": "Information",
+        "permissionDenied": "Permission Denied",
+        "na": "N/A",
+        "locale": "en-US",
+        "seeAll": "See All",
+        "you": "You",
+        "notSet": "Not set",
+        "yes": "Yes",
+        "no": "No"
+    }
+}

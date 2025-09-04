@@ -33,7 +33,20 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-localization",
+      {
+        "supportedLocales": {
+          "ios": [
+            "fr",
+            "en"
+          ],
+          "android": [
+            "fr",
+            "en"
+          ]
+        }
+      }
     ],
     "experiments": {
       "typedRoutes": true
